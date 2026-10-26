@@ -19,6 +19,14 @@ The collection brings together lightweight utilities, interface enhancements, an
 
 Each mod is maintained in its own repository, with independent development, documentation, and release history.
 
+## Windhawk Configurations
+
+Alongside the custom mods, Emberveil includes a collection of Windows desktop styling presets.
+
+[**Explore Windhawk Configurations**](https://github.com/hheitlager/windhawk-configurations)
+
+The collection includes taskbar, clock, Start menu, notification center, and Mawaqit configurations, with Emberveil and Catppuccin-inspired designs and supporting image assets.
+
 ## Design Philosophy
 
 Emberveil projects follow a few simple principles:
