@@ -1,13 +1,7 @@
 <div align="center">
-
-# ✦ EMBERVEIL ✦
-
-### Desktop customization with purpose.
-
-**Windows Customization · Windhawk Mods · Linux Desktop · Lightweight Utilities**
-
-_A collection of desktop customization projects, utilities, and experiments._
-
+  <img src="assets/banner/Emberveil_ Astronaut Beneath the Moon.png"
+       alt="Emberveil — Desktop customization with purpose."
+       width="100%">
 </div>
 
 ---
