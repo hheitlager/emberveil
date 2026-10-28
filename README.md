@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner/Emberveil_ Astronaut Beneath the Moon.png"
+  <img src="./assests/banner/Emberveil_ Astronaut Beneath the Moon.png"
        alt="Emberveil — Desktop customization with purpose."
        width="100%">
 </div>
